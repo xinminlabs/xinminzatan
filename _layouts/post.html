@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class="post">
+  <h1><a class="title" href="{{ page.url }}" title="{{ page.title }}" rel="bookmark">{{ page.title }}</a></h1>
+  <p class="published muted">{{ page.date.strftime("%y年%m月%d日") }}</p>
+  <div class="content">{{ content }}</div>
+  <p class="muted">
+    Tags&nbsp;
+    {% for tag in page.tags %}
+    <a href="/tag/{{ tag }}" title="{{ tag }}" rel="tag" class="btn btn-mini">{{ tag }}</a>
+    {% endfor %}
+  </p>
+</div>
+<hr/>

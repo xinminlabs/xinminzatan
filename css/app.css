@@ -1,0 +1,33 @@
+#tag-cloud .set-2 {
+  font-size: 1.2em;
+}
+#tag-cloud .set-3 {
+  font-size: 1.5em;
+}
+#tag-cloud .set-4 {
+  font-size: 1.7em;
+}
+#tag-cloud .set-5 {
+  font-size: 2em;
+}
+video {
+  width: 100%;
+  height: auto;
+  max-height: 100%;
+  background-color: #000;
+}
+#slideshow {
+  width: 100%;
+  height: auto;
+  max-height: 100%;
+  border: 1px solid black;
+}
+
+#slideshow img {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: auto;
+  max-height: 100%;
+  display: none;
+}
