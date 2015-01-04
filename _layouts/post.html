@@ -3,6 +3,16 @@ layout: default
 ---
 <div class="post">
   <h1><a class="title" href="{{ page.url }}" title="{{ page.title }}" rel="bookmark">{{ page.title }}</a></h1>
+  <!-- JiaThis Button BEGIN -->
+  <div class="jiathis_style_32x32">
+    <a class="jiathis_button_weixin"></a>
+    <a class="jiathis_button_tsina"></a>
+    <a class="jiathis_button_tqq"></a>
+    <a class="jiathis_button_douban"></a>
+    <a href="http://www.jiathis.com/share?uid=1762670" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+    <a class="jiathis_counter_style"></a>
+  </div>
+  <!-- JiaThis Button END -->
   <p class="published muted">{{ page.date.strftime("%y年%m月%d日") }}</p>
   <div class="content">{{ content }}</div>
   <p class="muted">
@@ -11,5 +21,18 @@ layout: default
     <a href="/tag/{{ tag }}" title="{{ tag }}" rel="tag" class="btn btn-mini">{{ tag }}</a>
     {% endfor %}
   </p>
+  <!-- JiaThis Button BEGIN -->
+  <div class="jiathis_style_32x32">
+    <a class="jiathis_button_weixin"></a>
+    <a class="jiathis_button_tsina"></a>
+    <a class="jiathis_button_tqq"></a>
+    <a class="jiathis_button_douban"></a>
+    <a href="http://www.jiathis.com/share?uid=1762670" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+    <a class="jiathis_counter_style"></a>
+  </div>
+  <!-- JiaThis Button END -->
+  <div class="weixin-qrcode">
+    <p>公众号</p>
+    <img src="/img/weixin_qrcode.jpg" />
+  </div>
 </div>
-<hr/>

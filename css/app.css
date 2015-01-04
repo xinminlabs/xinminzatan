@@ -10,6 +10,28 @@
 #tag-cloud .set-5 {
   font-size: 2em;
 }
+.jiathis_style_32x32 {
+  overflow: hidden;
+}
+.post {
+  position: relative;
+  padding-bottom: 50px;
+}
+.weixin-qrcode {
+  border: 1px solid #eee;
+  text-align: center;
+  width: 139px;
+  position: absolute;
+  bottom: 50px;
+  right: 50px;
+}
+.weixin-qrcode p {
+  margin: 5px 0 0 0;
+}
+.weixin-qrcode img {
+  width: 129px;
+  height: 129px;
+}
 video {
   width: 100%;
   height: auto;
