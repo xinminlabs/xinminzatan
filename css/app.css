@@ -16,14 +16,14 @@ video {
   max-height: 100%;
   background-color: #000;
 }
-#slideshow {
+.slideshow {
   width: 100%;
   height: auto;
   max-height: 100%;
   border: 1px solid black;
 }
 
-#slideshow img {
+.slideshow img {
   padding: 0;
   margin: 0;
   width: 100%;

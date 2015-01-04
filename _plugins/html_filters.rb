@@ -11,6 +11,7 @@ module Jekyll
       deleting = false
       to_delete = []
 
+      doc.css('.video, .slideshow').each { |x| x.remove }
       depth_first(doc.children.first) do |node|
 
         if !deleting && node.class == Nokogiri::XML::Text
