@@ -26,7 +26,11 @@ $(function () {
   function nextImage() {
     currentImg = Math.min(currentImg + 1, maxImages);
     $('.slideshow img').hide();
-    $('.slideshow img:nth-child('+currentImg+')').show();
+    var $img = $('.slideshow img:nth-child('+currentImg+')')
+    if ($img.hasClass('lazy')) {
+      $img.attr('src', $img.data('src')).removeClass('lazy');
+    }
+    $img.show();
   }
 
   slideshow = $(".slideshow");
