@@ -7,7 +7,7 @@ tags:
 
 ### 视频
 
-<video id="video" controls>
+<video class="video" poster="/assets/Keith-and-Mario-Guide-to-Fast-Websites/poster.webp" controls>
   <source src="/assets/Keith-and-Mario-Guide-to-Fast-Websites/video.webm" type="video/webm">
   <source src="/assets/Keith-and-Mario-Guide-to-Fast-Websites/video.mp4" type="video/mp4">
 </video>
@@ -16,7 +16,7 @@ tags:
 
 ### 幻灯片
 
-<div id="slideshow">
+<div class="slideshow">
   <img src="/assets/Keith-and-Mario-Guide-to-Fast-Websites/slide_0.jpg">
   <img src="/assets/Keith-and-Mario-Guide-to-Fast-Websites/slide_1.jpg">
   <img src="/assets/Keith-and-Mario-Guide-to-Fast-Websites/slide_2.jpg">
