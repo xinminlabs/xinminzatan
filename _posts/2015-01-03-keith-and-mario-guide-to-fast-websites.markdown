@@ -7,7 +7,7 @@ tags:
 
 ### 视频
 
-<video class="video" poster="/assets/Keith-and-Mario-Guide-to-Fast-Websites/poster.jpg" controls>
+<video class="video" poster="/assets/Keith-and-Mario-Guide-to-Fast-Websites/poster.jpg" preload controls>
   <source src="/assets/Keith-and-Mario-Guide-to-Fast-Websites/video.webm" type="video/webm">
   <source src="/assets/Keith-and-Mario-Guide-to-Fast-Websites/video.mp4" type="video/mp4">
 </video>

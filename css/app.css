@@ -13,11 +13,16 @@
 .jiathis_style_32x32 {
   overflow: hidden;
 }
+.post {
+  margin-bottom: 50px;
+}
+.post h1 {
+  margin-bottom: 20px;
+}
 .weixin-qrcode {
   border: 1px solid #eee;
   text-align: center;
-  width: 139px;
-  margin: 20px 0;
+  float: right;
 }
 .weixin-qrcode p {
   margin: 5px 0 0 0;
