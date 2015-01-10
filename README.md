@@ -3,4 +3,4 @@
 ## Usage
 
     bundle install
-    bundle exec ejekyll serve --watch
+    bundle exec jekyll serve
