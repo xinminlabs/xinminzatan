@@ -19,18 +19,6 @@
 .post h1 {
   margin-bottom: 20px;
 }
-.weixin-qrcode {
-  border: 1px solid #eee;
-  text-align: center;
-  float: right;
-}
-.weixin-qrcode p {
-  margin: 5px 0 0 0;
-}
-.weixin-qrcode img {
-  width: 129px;
-  height: 129px;
-}
 video {
   width: 100%;
   height: auto;
@@ -51,4 +39,17 @@ video {
   height: auto;
   max-height: 100%;
   display: none;
+}
+.weixin-qrcode {
+  border: 1px solid #eee;
+  text-align: center;
+  width: 139px;
+  margin: 10px auto;
+}
+.weixin-qrcode p {
+  margin: 5px 0 0 0;
+}
+.weixin-qrcode img {
+  width: 129px;
+  height: 129px;
 }
