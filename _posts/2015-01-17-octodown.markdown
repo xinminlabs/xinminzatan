@@ -15,5 +15,7 @@ table，可能会需要 push 多次才能写对。
 有了 octodown 这个 gem，我们可以在本地预览和调试 markdown
 的格式，非常方便。
 
+![Demo](https://github.com/ianks/octodown/blob/master/assets/octodown.gif?raw=true)
+
 
 [1]: https://github.com/ianks/octodown
