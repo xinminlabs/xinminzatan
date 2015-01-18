@@ -1,0 +1,19 @@
+---
+layout: post
+title: octodown
+tags:
+- gem
+---
+
+[octodown][1] 提供在本地查看 github markdown 的预览功能。
+
+对于经常使用 Github 的程序员来说，会有经常写 Markdown
+文件的机会，但是要看到 Makrdown 文件在 Github 上展现的样子还得先 push
+代码到 Github 之后才能看到，如果碰到写一些不熟悉的格式，比如是
+table，可能会需要 push 多次才能写对。
+
+有了 octodown 这个 gem，我们可以在本地预览和调试 markdown
+的格式，非常方便。
+
+
+[1]: https://github.com/ianks/octodown
