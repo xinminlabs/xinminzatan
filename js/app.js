@@ -10,7 +10,7 @@ $(function () {
   };
 
   function tap(event) {
-    if (event.x < $('.slideshow').offset().left + $('.slideshow').width() / 2) {
+    if (event.pageX < $(window).width() / 2) {
       previousImage();
     } else {
       nextImage();
