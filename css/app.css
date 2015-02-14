@@ -19,6 +19,13 @@
 .post h1 {
   margin-bottom: 20px;
 }
+.post table {
+  margin: 10px 0;
+}
+.post table td, .post table th {
+  border: 1px solid #aaa;
+  padding: 5px 10px;
+}
 video {
   width: 100%;
   height: auto;
