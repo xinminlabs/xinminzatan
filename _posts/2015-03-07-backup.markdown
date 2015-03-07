@@ -1,0 +1,48 @@
+---
+layout: post
+title: backup
+tags:
+- gem
+---
+
+[backup][1] 是一套用 Ruby 写的备份解决方案。
+
+Backup 可以
+
+归档文件和目录，备份数据库（Mysql，MongoDB，Redis等等）
+压缩和加密
+存储备份文件（Amazon S3，Dropbox，FTP等等）
+通知（Email，Twitter，Slack等等）
+
+下面是一个例子，备份 builds 目录和 mysql 数据库，
+备份文件压缩成 gzip 保存到 Dropbox
+
+```
+Backup::Model.new(:name, 'description') do
+  archive :builds do |archive|
+    archive.root 'root'
+    archive.add 'builds/'
+  end
+
+  database MySQL do |db|
+    db.name               = "name"
+    db.username           = "username"
+    db.password           = "password"
+    db.host               = "host"
+    db.port               = 3306
+  end
+
+  store_with Dropbox do |db|
+    db.api_key    = 'api key'
+    db.api_secret = 'api secret'
+    db.access_type = 'dropbox'
+    db.keep       = 10
+  end
+
+  compress_with Gzip
+end
+```
+
+对于一般系统， Backup 的解决方案非常方便。
+
+[1]: https://github.com/meskyanichi/backup
