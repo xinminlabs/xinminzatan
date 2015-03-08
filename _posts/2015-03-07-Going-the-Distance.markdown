@@ -249,7 +249,7 @@ tags:
   <img src="/img/loading.gif" class="lazy" data-src="/assets/Going-the-Distance/slide_229.jpg">
 </div>
 
-原幻灯片地址：<https://speakerdeck.com/keithpitt/keith-and-marios-guide-to-fast-websites>
+原幻灯片地址：<https://speakerdeck.com/schneems/going-the-distance>
 
 ### 介绍
 

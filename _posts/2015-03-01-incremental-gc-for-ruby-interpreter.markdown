@@ -21,6 +21,7 @@ tags:
 Ruby 2.2 发布之前，介绍了 Ruby 2.1 引入的 RGenGC 和 Ruby 2.2 引入的 RincGC
 
 RGenGC 极大地减少了 GC 的时间和停顿 (Stop the world) 的时间
+
 RincGC 在 RGenGC 的基础之上，进一步减少了停顿的时间
 
 演讲中详细介绍了 RGenGC 和 RincGC 的原理和实现，对 Ruby GC
