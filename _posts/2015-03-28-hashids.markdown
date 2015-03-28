@@ -1,0 +1,23 @@
+---
+layout: post
+title: hashids
+tags:
+- gem
+---
+
+[hashids][1] 能够把数字转换成类似于 Youtube 的 hash 值，比如 DazHGyb7Gqg
+
+```
+hashids = Hashids.new("this is my salt")
+hash = hashids.encode(12345)
+=> "NkK9"
+
+hashids = Hashids.new("this is my salt")
+numbers = hashids.decode("NkK9")
+=> [12345]
+```
+
+对于不希望把数据库 id 暴露给最终用户的应用，hashids
+可以很好地解决这个问题。
+
+[1]: https://github.com/peterhellberg/hashids.rb
