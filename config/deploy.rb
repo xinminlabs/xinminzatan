@@ -5,7 +5,7 @@ set :application,       'xinminzatan.xinminlabs.com'
 set :scm,               :git
 set :repo_url,          'git@github.com:xinminlabs/xinminzatan.git'
 set :use_sudo,          false
-set :keep_releases,     2
+set :keep_releases,     1
 
 set :user,    'deploy'
 set :group,   'deploy'
