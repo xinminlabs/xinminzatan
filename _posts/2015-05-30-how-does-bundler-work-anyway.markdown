@@ -17,7 +17,7 @@ tags:
 ### 幻灯片
 
 <div class="slideshow">
-  <img src="/assets/Keith-and-Mario-Guide-to-Continuous-Deployment-with-Rails/slide_0.jpg">
+  <img src="/assets/How-Does-Bundler-Work-Anyway/slide_0.jpg">
   <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_1.jpg">
   <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_2.jpg">
   <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_3.jpg">

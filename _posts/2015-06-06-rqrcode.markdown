@@ -1,0 +1,22 @@
+---
+layout: post
+title: rqrcode
+tags:
+- gem
+---
+
+[rqrcode][1] 看名字就知道是 ruby 语言来生成二维码。
+
+使用起来非常简单，传入 url 地址，就能得到 png 图片对象。
+
+```
+require 'rqrcode'
+
+qrcode = RQRCode::QRCode.new("http://github.com/")
+image = qrcode.as_png
+```
+
+rqrcode 还能导出 svg 和 html 格式。
+
+
+[1]: https://github.com/whomwah/rqrcode
