@@ -1,0 +1,28 @@
+---
+layout: post
+title: geocoder
+tags:
+- gem
+---
+
+[geocoder][1] 提供了完整的地理解决方案。
+
+你可以使用 geocoder
+将地址信息转换为经纬度信息，也可以通过经纬度信息查询到地址信息。
+
+geocoder 还能很容易集成到 rails 当中，比如
+
+```
+geocoded_by :full_street_address   # can also be an IP address
+after_validation :geocode          # auto-fetch coordinates
+```
+
+```
+reverse_geocoded_by :latitude, :longitude
+after_validation :reverse_geocode  # auto-fetch address
+```
+
+geocoder 支持不同的 geocoding api，包括 google，yahoo，bing，baidu
+等等，可以适应不同地区的使用。
+
+[1]: https://github.com/alexreisner/geocoder
