@@ -1,6 +1,15 @@
 $(function () {
   var currentImg = 1;
-  var maxImages = 83;
+  var slideName = $('.slideshow').data('slide-name');
+  var slideStart = parseInt($('.slideshow').data('slide-start'));
+  var slideEnd = parseInt($('.slideshow').data('slide-end'));
+  var maxImages = slideEnd - slideStart + 1;
+
+  var slideIndex = slideStart;
+  $('.slideshow').append('<img src="/assets/'+slideName+'/slide_'+slideIndex+'.jpg" />');
+  for (slideIndex = slideStart + 1; slideIndex <= slideEnd; slideIndex++) {
+    $('.slideshow').append('<img src="/img/loading.gif" class="lazy" data-src="/assets/'+slideName+'/slide_'+slideIndex+'.jpg" />');
+  }
 
   var swipeOptions = {
     triggerOnTouchEnd: true,

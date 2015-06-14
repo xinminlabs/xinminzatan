@@ -16,57 +16,8 @@ tags:
 
 ### 幻灯片
 
-<div class="slideshow">
-  <img src="/assets/How-Does-Bundler-Work-Anyway/slide_0.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_1.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_2.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_3.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_4.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_5.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_6.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_7.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_8.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_9.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_10.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_11.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_12.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_13.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_14.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_15.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_16.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_17.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_18.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_19.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_20.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_21.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_22.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_23.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_24.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_25.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_26.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_27.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_28.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_29.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_30.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_31.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_32.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_33.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_34.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_35.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_36.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_37.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_38.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_39.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_40.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_41.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_42.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_43.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_44.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_45.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_46.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_47.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/How-Does-Bundler-Work-Anyway/slide_48.jpg">
-</div>
+<div class="slideshow" data-slide-name="How-Does-Bundler-Work-Anyway"
+data-slide-start="0" data-slide-end="48"></div>
 
 原幻灯片地址：<https://speakerdeck.com/indirect/how-does-bundler-work-anyway>
 

@@ -16,59 +16,8 @@ tags:
 
 ### 幻灯片
 
-<div class="slideshow">
-  <img src="/assets/Riding-Rails-for-10-Years/slide_1.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_1.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_2.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_3.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_4.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_5.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_6.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_7.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_8.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_9.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_10.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_11.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_12.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_13.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_14.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_15.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_16.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_17.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_18.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_19.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_20.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_21.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_22.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_23.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_24.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_25.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_26.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_27.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_28.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_29.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_30.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_31.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_32.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_33.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_34.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_35.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_36.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_37.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_38.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_39.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_40.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_41.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_42.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_43.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_44.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_45.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_46.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_47.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_48.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_49.jpg">
-  <img src="/img/loading.gif" class="lazy" data-src="/assets/Riding-Rails-for-10-Years/slide_50.jpg">
-</div>
+<div class="slideshow" data-slide-name="Riding-Rails-for-10-Years"
+data-slide-start="1" data-slide-end="50"></div>
 
 原幻灯片地址：<http://www.slideshare.net/jduff/riding-rails-for-10-years>
 
