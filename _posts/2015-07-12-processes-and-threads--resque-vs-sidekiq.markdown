@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Processes-and-Threads--Resque-vs-Sidekiq
+title: Processes and Threads - Resque vs. Sidekiq
 tags:
 - talk
 ---
 
 ### 视频
 
-<video class="video" poster="/assets/Processes-and-Threads--Resque-vs-Sidekiq/poster.jpg" preload controls>
-  <source src="/assets/Processes-and-Threads--Resque-vs-Sidekiq/video.webm" type="video/webm">
-  <source src="/assets/Processes-and-Threads--Resque-vs-Sidekiq/video.mp4" type="video/mp4">
+<video class="video" poster="/assets/Processes-and-Threads-Resque-vs-Sidekiq/poster.jpg" preload controls>
+  <source src="/assets/Processes-and-Threads-Resque-vs-Sidekiq/video.webm" type="video/webm">
+  <source src="/assets/Processes-and-Threads-Resque-vs-Sidekiq/video.mp4" type="video/mp4">
 </video>
 
 原视频地址：<https://www.youtube.com/watch?v=_8X96hMaRXI>
@@ -17,7 +17,7 @@ tags:
 ### 幻灯片
 
 <div class="slideshow"
-data-slide-name="Processes-and-Threads--Resque-vs-Sidekiq" data-slide-start="0"
+data-slide-name="Processes-and-Threads-Resque-vs-Sidekiq" data-slide-start="0"
 data-slide-end="31"></div>
 
 原幻灯片地址：<https://speakerdeck.com/jdabbs/processes-and-threads-resque-vs-sidekiq>
