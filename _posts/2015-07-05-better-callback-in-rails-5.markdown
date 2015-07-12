@@ -18,7 +18,7 @@ tags:
 
 <div class="slideshow"
 data-slide-name="Better-Callbacks-in-Rails-5" data-slide-start="0"
-data-slide-end="92"></div>
+data-slide-end="17"></div>
 
 原幻灯片地址：<https://speakerdeck.com/claudiob/better-callbacks-in-rails-5>
 
