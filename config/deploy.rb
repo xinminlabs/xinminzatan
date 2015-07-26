@@ -24,4 +24,4 @@ namespace :deploy do
   end
 end
 
-after "deploy:symlink:release", "deploy:update_jekyll"
+after "deploy:finishing", "deploy:update_jekyll"
